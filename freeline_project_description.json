@@ -1,0 +1,108 @@
+{
+    "android_gradle_plugin_version": "2.4.0-alpha4",
+    "apk_path": "F:\\Android\\studio_work\\RetrofitLearn\\test\\build\\outputs\\apk\\test-debug.apk",
+    "auto_dependency": true,
+    "build_cache_dir": "F:\\Android\\studio_work\\RetrofitLearn\\test\\build\\freeline",
+    "build_directory": "F:\\Android\\studio_work\\RetrofitLearn\\test\\build",
+    "build_script": "gradlew.bat :test:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "D:\\android-sdk-windows_r25.2.2\\build-tools\\25.0.2",
+    "build_tools_version": "25.0.2",
+    "check_sources_md5": [
+        
+    ],
+    "compile_sdk_directory": "D:\\android-sdk-windows_r25.2.2\\platforms\\android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "ph.com.test",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "F:\\Android\\studio_work\\RetrofitLearn",
+    "freeline_gradle_plugin_version": "0.8.7",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "C:\\Java\\jdk1.8.0_91",
+    "launcher": "ph.com.test.MainActivity",
+    "main_assets_directory": [
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\assets",
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\jniLibs",
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\jni",
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\jni"
+    ],
+    "main_manifest_path": "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "test",
+    "main_project_name": "test",
+    "main_r_path": "F:\\Android\\studio_work\\RetrofitLearn\\test\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\res",
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\java",
+        "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "test": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "test",
+            "path": "F:\\Android\\studio_work\\RetrofitLearn\\test"
+        }
+    ],
+    "package": "ph.com.test",
+    "product_flavor": "",
+    "project_source_sets": {
+        "test": {
+            "main_assets_directory": [
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\assets",
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\jniLibs",
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\jni",
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\jni"
+            ],
+            "main_manifest_path": "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\res",
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\debug\\java",
+                "F:\\Android\\studio_work\\RetrofitLearn\\test\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "root_dir": "F:\\Android\\studio_work\\RetrofitLearn",
+    "sdk_directory": "D:\\android-sdk-windows_r25.2.2",
+    "use_jdk8": true,
+    "use_system_gradle": false
+}
