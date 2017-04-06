@@ -22,7 +22,7 @@ public interface ApiService {
     Call<ClassfyBean> getClassfyData();
 
     //获取首页列表的数据
-    //如果是POST请求，需要添加上面的注解，表示以表单的方式来提交数据
+    //如果是POST请求，需要添加上面的注解，表示以表单的方式来提交数据111
     @FormUrlEncoded
     @POST("api/lore/list")
     Call<CateItemBean> getListData(@Field("id") int id);
