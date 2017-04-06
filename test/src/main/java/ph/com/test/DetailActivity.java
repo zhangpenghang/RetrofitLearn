@@ -31,6 +31,7 @@ public class DetailActivity extends AppCompatActivity {
                 .baseUrl("http://www.tngou.net/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
+        //11111111
         ApiService apiService = retrofit.create(ApiService.class);
         Call<DetailBean> call = apiService.getDetailData(getIntent().getIntExtra("id", 0));
         call.enqueue(new Callback<DetailBean>() {
