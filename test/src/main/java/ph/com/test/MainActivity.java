@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 for (int i = 0; i < body.getTngou().size(); i++) {
                     fragments.add(BaseFragment.getInstance(body.getTngou().get(i).getId()));
                 }
+                //11
                 VpAdapter adapter = new VpAdapter(getSupportFragmentManager(), fragments, body);
                 viewPager.setAdapter(adapter);
                 tabLayout.setupWithViewPager(viewPager);
